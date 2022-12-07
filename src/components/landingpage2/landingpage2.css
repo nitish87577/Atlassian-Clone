@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.customers-icon{
+    background-image: linear-gradient(to bottom, #ffffff, #e8edf9, #c8ddf2, #a1d0e6, #75c3d3);
+}
